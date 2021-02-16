@@ -1,0 +1,24 @@
+body{
+	background: #87CEFA;
+}
+
+.colorprobel {
+			color: #87CEFA;
+		}
+
+.ocm1 {
+			color: #ffffff;
+			background: #ee2524;
+		}
+
+.form {
+	color: #fff;
+	width: 120px;
+    height: 190px;
+	/*max-width: 200px;*/
+    font-family: sans-serif;
+    font-size: 25px;
+    background: #ee2524;
+    padding: 70px;
+    border-radius: 0% 100% 100% 0% / 0% 48% 52% 100%;
+}
