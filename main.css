@@ -2,9 +2,6 @@ body{
 	background: #87CEFA;
 }
 
-.colorprobel {
-			color: #87CEFA;
-		}
 
 .ocm1 {
 			color: #ffffff;
@@ -21,10 +18,19 @@ body{
 	background: pink;
 }
 
+.rectangle {
+	width: 600px;
+	height: 30px;
+	background: red;
+}
+
+
 .form {
+	transform: translateX(600px);
+	position: absolute;
 	color: #fff;
 	width: 180px;
-    height: 260px;
+    height: 330px;
 	/*max-width: 200px;*/
     font-family: sans-serif;
     font-size: 25px;
@@ -32,3 +38,4 @@ body{
     padding: 70px;
     border-radius: 0% 100% 100% 0% / 0% 48% 52% 100%;
 }
+
